@@ -1,2 +1,2 @@
 # make-search
-Objetivo de criar `data-visualization`
+Objetivo: criar `data-visualization` agnóstico em Javascript.
